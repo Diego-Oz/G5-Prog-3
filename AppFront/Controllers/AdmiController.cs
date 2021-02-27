@@ -12,14 +12,16 @@ using System.Threading.Tasks;
 
 namespace AppFront.Controllers
 {
-    public class AdmiController1 : Controller
+    public class AdmiController : Controller
     {
         private static string url = "https://apibolsa.azurewebsites.net/api/empleos";
         private static string arl = "https://apibolsa.azurewebsites.net/api/categorias";
         //indexEmpleos
         public async Task <ActionResult> Index()
         {
+            var accessToken = HttpContext.Session.GetString("JWToken");
             var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
             var json = await htttpcliente.GetStringAsync(url);
             var convertir = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
             return View(convertir);
@@ -29,7 +31,9 @@ namespace AppFront.Controllers
 
         public async Task<ActionResult> Indexcate()
         {
+            var accessToken = HttpContext.Session.GetString("JWToken");
             var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
             var json = await htttpcliente.GetStringAsync(arl);
             var convertir = JsonConvert.DeserializeObject<List<AppFront.Models.Categoria>>(json);
             return View(convertir);
@@ -107,7 +111,7 @@ namespace AppFront.Controllers
             using (var httpClient = new HttpClient())
             {
                 var content = new MultipartFormDataContent();
-                content.Add(new StringContent(category.Id.ToString()), "Id");
+                content.Add(new StringContent(category.ID.ToString()), "Id");
                 content.Add(new StringContent(category.NombreCategoria.ToString()), "NombreCategoria");
 
                 using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/categorias", content))

@@ -11,7 +11,7 @@ namespace AppFront.Models
     {
         [Key]
         [Column("ID")]
-        public int Id { get; set; }
+        public int ID { get; set; }
         [Required]
         [Column("Nombre_categoria")]
         [StringLength(50)]

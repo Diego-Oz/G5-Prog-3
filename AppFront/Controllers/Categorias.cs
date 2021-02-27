@@ -15,13 +15,15 @@ namespace AppFront.Controllers
     public class Categorias : Controller
     {
 
-        private static string url = "https://apibolsa.azurewebsites.net/api/categorias";
+        private static string url = "https://apibolsa.azurewebsites.net/api/Categorias";
         // GET: AdmiController1
         public async Task<ActionResult> Index()
         {
+            var accessToken = HttpContext.Session.GetString("JWToken");
             var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
             var json = await htttpcliente.GetStringAsync(url);
-            var lista_categorias= JsonConvert.DeserializeObject<List<Empleos>>(json);
+            var lista_categorias= JsonConvert.DeserializeObject<List<AppFront.Models.Categoria>>(json);
             return View(lista_categorias);
         }
 
@@ -40,7 +42,7 @@ namespace AppFront.Controllers
 
             using (var httpClient = new HttpClient())
             {
-                using (var responde = await httpClient.GetAsync("https://apibolsa.azurewebsites.net/api/categorias/" + id))
+                using (var responde = await httpClient.GetAsync("https://apibolsa.azurewebsites.net/api/Categorias/" + id))
                 {
                     string apiResponde = await responde.Content.ReadAsStringAsync();
                     categori = JsonConvert.DeserializeObject<Categoria>(apiResponde);
@@ -59,10 +61,10 @@ namespace AppFront.Controllers
             using (var httpClient = new HttpClient())
             {
                 var content = new MultipartFormDataContent();
-                content.Add(new StringContent(category.Id.ToString()), "Id");
+                content.Add(new StringContent(category.ID.ToString()), "Id");
                 content.Add(new StringContent(category.NombreCategoria.ToString()), "NombreCategoria");
 
-                using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/categorias", content))
+                using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/Categorias", content))
                 {
                     string apiresponde = await responde.Content.ReadAsStringAsync();
                     ViewBag.Result = "succes";
@@ -75,22 +77,22 @@ namespace AppFront.Controllers
         //Agregar 
         public ViewResult Create() => View();
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Categoria categoria)
+        public async Task<IActionResult> Create(Categoria nuevo)
         {
-            Categoria receivedata = new Categoria();
             var accestoken = HttpContext.Session.GetString("JWToken");
+            Categoria receivedata = new Categoria();
             using (var httpClient = new HttpClient())
             {
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
-                StringContent content = new StringContent(JsonConvert.SerializeObject(categoria), Encoding.UTF8, "application/json");
-                using (var response = await httpClient.PostAsync(url, content))
+                StringContent content = new StringContent(JsonConvert.SerializeObject(nuevo), Encoding.UTF8, "application/json");
+
+                using (var response = await httpClient.PostAsync("https://apibolsa.azurewebsites.net/api/Categorias", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                     receivedata = JsonConvert.DeserializeObject<Categoria>(apiResponse);
                 }
             }
-            return Redirect("~/Categorias/index");
+            return Redirect("~/categorias/index");
 
         }
 
@@ -101,7 +103,9 @@ namespace AppFront.Controllers
         {
             using (var httpcliente = new HttpClient())
             {
-                using (var responde = await httpcliente.DeleteAsync("https://apibolsa.azurewebsites.net/api/categorias/" + cateid))
+                var accessToken = HttpContext.Session.GetString("JWToken");
+                httpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+                using (var responde = await httpcliente.DeleteAsync("https://apibolsa.azurewebsites.net/api/Categorias/" + cateid))
                 {
                     string apiresponde = await responde.Content.ReadAsStringAsync();
                 }

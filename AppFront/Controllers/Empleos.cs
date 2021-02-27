@@ -76,6 +76,7 @@ namespace AppFront.Controllers
         [HttpPost]
         public async Task<IActionResult> Editar(Empleo empleo)
         {
+
             Empleo empleoedit = new Empleo();
             using (var httpClient = new HttpClient())
             {
@@ -89,7 +90,7 @@ namespace AppFront.Controllers
                 content.Add(new StringContent(empleo.Fecha.ToString()), "Fecha");
                 content.Add(new StringContent(empleo.Url.ToString()), "Url");
                 content.Add(new StringContent(empleo.Email.ToString()), "Email");
-                content.Add(new StringContent(empleo.Logo.ToString()), "Logo");
+                content.Add(new StringContent(empleo.Logo.ToString()), "");
 
                 using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/empleos", content))
                 {
@@ -99,6 +100,8 @@ namespace AppFront.Controllers
                 }
             }
             return Redirect("~/empleos/index");
+
+        
         }
     }
 }
