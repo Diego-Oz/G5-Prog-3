@@ -7665,11 +7665,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alci\\Desktop\\a\\ApiBolsa\\ApiBolsa.csproj",
+      "projectUniqueName": "C:\\Users\\Alci\\Desktop\\veamos\\ApiBolsa\\ApiBolsa.csproj",
       "projectName": "ApiBolsa",
-      "projectPath": "C:\\Users\\Alci\\Desktop\\a\\ApiBolsa\\ApiBolsa.csproj",
+      "projectPath": "C:\\Users\\Alci\\Desktop\\veamos\\ApiBolsa\\ApiBolsa.csproj",
       "packagesPath": "C:\\Users\\Alci\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alci\\Desktop\\a\\ApiBolsa\\obj\\",
+      "outputPath": "C:\\Users\\Alci\\Desktop\\veamos\\ApiBolsa\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

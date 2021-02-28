@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj": {}
+    "C:\\Users\\Alci\\Desktop\\veamos\\AppFront\\AppFront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj": {
+    "C:\\Users\\Alci\\Desktop\\veamos\\AppFront\\AppFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj",
+        "projectUniqueName": "C:\\Users\\Alci\\Desktop\\veamos\\AppFront\\AppFront.csproj",
         "projectName": "AppFront",
-        "projectPath": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj",
-        "packagesPath": "C:\\Users\\dsgsdg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\obj\\",
+        "projectPath": "C:\\Users\\Alci\\Desktop\\veamos\\AppFront\\AppFront.csproj",
+        "packagesPath": "C:\\Users\\Alci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alci\\Desktop\\veamos\\AppFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dsgsdg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Alci\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"

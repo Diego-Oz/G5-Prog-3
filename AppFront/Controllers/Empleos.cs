@@ -14,71 +14,28 @@ namespace AppFront.Controllers
 {
     public class Empleos : Controller
     {
-        private static string url = "https://apibolsa.azurewebsites.net/api/empleos";
+
+        Empleo emp = new Empleo();
+        List<Empleo> List_emp = new List<Empleo>();
+
+        private static string url = "https://apibolsa.azurewebsites.net/api/empleos/";
 
         public async Task<IActionResult> Index()
         {
+            List_emp = new List<Empleo>();
             var htttpcliente = new HttpClient();
             var json = await htttpcliente.GetStringAsync(url);
-            var convertir = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-            return View(convertir);
-
+            List_emp = JsonConvert.DeserializeObject<List<Empleo>>(json);
+            return View(List_emp);
         }
-       
-        public async Task<IActionResult> IndexPost()
+
+        public async Task<ActionResult> Details(int id)
         {
+            emp = new Empleo();
             var htttpcliente = new HttpClient();
-            var json = await htttpcliente.GetStringAsync(url);
-            var convertirpost = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-            return View(convertirpost);
-
-        }
-
-        public async Task<IActionResult> Postular(int categoria)
-        {
-            var htttpcliente = new HttpClient();
-            var json = await htttpcliente.GetStringAsync(url);
-
-            List<Empleo> postular = new List<Empleo>();
-            if (categoria != 0)
-            {
-                List<Empleo> result = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-                postular = result.Where(x => x.Categorias == categoria).ToList();
-            } else
-            {
-                postular = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-            }
-            
-            return View(postular);
-
-        }
-
-        public async Task<IActionResult> Confirmar()
-        {
-            var htttpcliente = new HttpClient();
-            var json = await htttpcliente.GetStringAsync(url);
-            var confirmar = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-            return View(confirmar);
-
-        }
-
-        public async Task<IActionResult> Principal()
-        {
-            var htttpcliente = new HttpClient();
-            var json = await htttpcliente.GetStringAsync(url);
-            var convertirprin = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
-            return View(convertirprin);
-
-        }
-
-        public async Task<IActionResult> Details(int? id)
-        {
-            if (id == null)
-            {
-                return NotFound();
-            }
-
-            return View();
+            var json = await htttpcliente.GetStringAsync(url + id);
+            emp = JsonConvert.DeserializeObject<Empleo>(json);
+            return View(emp);
         }
 
         // GET: Empleo/Create
@@ -101,54 +58,63 @@ namespace AppFront.Controllers
                 }
             }
             return Redirect("~/empleos/index");
-
         }
 
-        //Editar
-        public async Task<IActionResult> Editar(int id)
+        public async Task<IActionResult> Delete(int id)
         {
-            Empleo empleo = new Empleo();
-
-            using (var httpClient = new HttpClient())
-            {
-                using (var responde = await httpClient.GetAsync("https://apibolsa.azurewebsites.net/api/empleos/" + id))
-                {
-                    string apiResponde = await responde.Content.ReadAsStringAsync();
-                    empleo = JsonConvert.DeserializeObject<Empleo>(apiResponde);
-                }
-            }
-            return View(empleo);
+            var accessToken = HttpContext.Session.GetString("JWToken");
+            var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var json = await htttpcliente.GetStringAsync(url + id);
+            emp = JsonConvert.DeserializeObject<Empleo>(json);
+            return View(emp);
         }
+
         [HttpPost]
-        public async Task<IActionResult> Editar(Empleo empleo)
+        public async Task<IActionResult> Delete(int id, Empleo emp)
         {
-
-            Empleo empleoedit = new Empleo();
+            var accestoken = HttpContext.Session.GetString("JWToken");
             using (var httpClient = new HttpClient())
             {
-                var content = new MultipartFormDataContent();
-                content.Add(new StringContent(empleo.Compañia.ToString()), "Compañia");
-                content.Add(new StringContent(empleo.Tipo.ToString()), "Tipo");
-                content.Add(new StringContent(empleo.Posicion.ToString()), "Posicion");
-                content.Add(new StringContent(empleo.Ubicacion.ToString()), "Ubicacion");
-                content.Add(new StringContent(empleo.Categorias.ToString()), "Categorias");
-                content.Add(new StringContent(empleo.Descripcion.ToString()), "Descripcion");
-                content.Add(new StringContent(empleo.Fecha.ToString()), "Fecha");
-                content.Add(new StringContent(empleo.Url.ToString()), "Url");
-                content.Add(new StringContent(empleo.Email.ToString()), "Email");
-                content.Add(new StringContent(empleo.Logo.ToString()), "");
-
-                using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/empleos", content))
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
+                using (var response = await httpClient.DeleteAsync(url + id))
                 {
-                    string apiresponde = await responde.Content.ReadAsStringAsync();
-                    ViewBag.Result = "succes";
-                    empleoedit = JsonConvert.DeserializeObject<Empleo>(apiresponde);
+                    string apiResponse = await response.Content.ReadAsStringAsync();
                 }
             }
-            return Redirect("~/empleos/index");
-
-        
+            return Redirect("~/Empleos/index");
         }
+
+        public async Task<IActionResult> Edit(int id)
+        {
+            var accessToken = HttpContext.Session.GetString("JWToken");
+            var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var json = await htttpcliente.GetStringAsync(url + id);
+            emp = JsonConvert.DeserializeObject<Empleo>(json);
+            return View(emp);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, Empleo editar)
+        {
+            emp = new Empleo();
+            var accestoken = HttpContext.Session.GetString("JWToken");
+            using (var httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
+                StringContent content = new StringContent(JsonConvert.SerializeObject(editar), Encoding.UTF8, "application/json");
+
+                using (var response = await httpClient.PutAsync(url + id, content))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    emp = JsonConvert.DeserializeObject<Empleo>(apiResponse);
+                }
+            }
+            return Redirect("~/Empleos/index");
+        }
+
+
     }
 }
 

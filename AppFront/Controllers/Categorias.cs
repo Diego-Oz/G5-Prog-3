@@ -14,73 +14,39 @@ namespace AppFront.Controllers
 {
     public class Categorias : Controller
     {
+        Categoria cate = new Categoria();
+        List<Categoria> lista_cate = new List<Categoria>();
 
-        private static string url = "https://apibolsa.azurewebsites.net/api/Categorias";
-        // GET: AdmiController1
+        private static string url = "https://apibolsa.azurewebsites.net/api/Categorias/";
         public async Task<ActionResult> Index()
         {
+            lista_cate = new List<Categoria>();
             var accessToken = HttpContext.Session.GetString("JWToken");
             var htttpcliente = new HttpClient();
             htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
             var json = await htttpcliente.GetStringAsync(url);
-            var lista_categorias= JsonConvert.DeserializeObject<List<AppFront.Models.Categoria>>(json);
-            return View(lista_categorias);
+            lista_cate = JsonConvert.DeserializeObject<List<Categoria>>(json);
+            return View(lista_cate);
         }
 
-        // GET: AdmiController1/Details/5
-        public ActionResult Details(int id)
+
+        public async Task<ActionResult> Details(int id)
         {
-            return View();
+            cate = new Categoria();
+            var accessToken = HttpContext.Session.GetString("JWToken");
+            var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var json = await htttpcliente.GetStringAsync(url + id);
+            cate = JsonConvert.DeserializeObject<Categoria>(json);
+            return View(cate);
         }
 
-
-        // GET: AdmiController1/Edit/5
-
-        public async Task<ActionResult> Edit(int id)
-        {
-            Categoria categori = new Categoria();
-
-            using (var httpClient = new HttpClient())
-            {
-                using (var responde = await httpClient.GetAsync("https://apibolsa.azurewebsites.net/api/Categorias/" + id))
-                {
-                    string apiResponde = await responde.Content.ReadAsStringAsync();
-                    categori = JsonConvert.DeserializeObject<Categoria>(apiResponde);
-                }
-            }
-            return View(categori);
-
-
-        }
-
-       
-        [HttpPost]
-        public async Task<IActionResult> Edit( Categoria category)
-        {
-            Categoria categori = new Categoria();
-            using (var httpClient = new HttpClient())
-            {
-                var content = new MultipartFormDataContent();
-                content.Add(new StringContent(category.ID.ToString()), "Id");
-                content.Add(new StringContent(category.NombreCategoria.ToString()), "NombreCategoria");
-
-                using (var responde = await httpClient.PutAsync("https://apibolsa.azurewebsites.net/api/Categorias", content))
-                {
-                    string apiresponde = await responde.Content.ReadAsStringAsync();
-                    ViewBag.Result = "succes";
-                    categori = JsonConvert.DeserializeObject<Categoria>(apiresponde);
-                }
-            }
-            return Redirect("~/empleos/index");
-        }
-
-        //Agregar 
         public ViewResult Create() => View();
         [HttpPost]
         public async Task<IActionResult> Create(Categoria nuevo)
         {
             var accestoken = HttpContext.Session.GetString("JWToken");
-            Categoria receivedata = new Categoria();
+            cate = new Categoria();
             using (var httpClient = new HttpClient())
             {
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
@@ -89,33 +55,68 @@ namespace AppFront.Controllers
                 using (var response = await httpClient.PostAsync("https://apibolsa.azurewebsites.net/api/Categorias", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
-                    receivedata = JsonConvert.DeserializeObject<Categoria>(apiResponse);
+                    cate = JsonConvert.DeserializeObject<Categoria>(apiResponse);
                 }
             }
             return Redirect("~/categorias/index");
 
         }
 
-
+        public async Task<IActionResult> Delete(int id)
+        {
+            var accessToken = HttpContext.Session.GetString("JWToken");
+            var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var json = await htttpcliente.GetStringAsync(url + id);
+            cate = JsonConvert.DeserializeObject<Categoria>(json);
+            return View(cate);
+        }
 
         [HttpPost]
-        public async Task<IActionResult> Delete(int cateid)
+        public async Task<IActionResult> Delete(int id, Categoria cate)
         {
-            using (var httpcliente = new HttpClient())
+            var accestoken = HttpContext.Session.GetString("JWToken");
+            using (var httpClient = new HttpClient())
             {
-                var accessToken = HttpContext.Session.GetString("JWToken");
-                httpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
-                using (var responde = await httpcliente.DeleteAsync("https://apibolsa.azurewebsites.net/api/Categorias/" + cateid))
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
+                using (var response = await httpClient.DeleteAsync(url + id))
                 {
-                    string apiresponde = await responde.Content.ReadAsStringAsync();
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+
                 }
             }
-            return RedirectToAction(nameof(Index));
+            return Redirect("~/categorias/index");
+        }
 
+        public async Task<IActionResult> Edit(int id)
+        {
+            var accessToken = HttpContext.Session.GetString("JWToken");
+            var htttpcliente = new HttpClient();
+            htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
+            var json = await htttpcliente.GetStringAsync(url + id);
+            var categoria = JsonConvert.DeserializeObject<Categoria>(json);
+            return View(categoria);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Edit(int id, Categoria ca)
+        {
+            cate = new Categoria();
+            var accestoken = HttpContext.Session.GetString("JWToken");
+            using (var httpClient = new HttpClient())
+            {
+                httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accestoken);
+                StringContent content = new StringContent(JsonConvert.SerializeObject(ca), Encoding.UTF8, "application/json");
+
+                using (var response = await httpClient.PutAsync(url+id, content))
+                {
+                    string apiResponse = await response.Content.ReadAsStringAsync();
+                    cate = JsonConvert.DeserializeObject<Categoria>(apiResponse);
+                }
+            }
+            return Redirect("~/categorias/index");
         }
 
 
-
-      
     }
 }

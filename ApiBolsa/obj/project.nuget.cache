@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q9EFl44kODMYEOJpN/09HD0rJRRPhgFDLkuJMTpoSZ2CmBuJkbpgGjJEg4DwkxUwjcp2L9XriiNbuj7X6NvIHQ==",
+  "dgSpecHash": "DMqi3vtCxtEHuTumJYXt5nfu774fIMLJIcb/Xdy7bM5+7mSyCZjIWzn8R6FhOCv7M2XTSmkFpkPCTkBx7y0Afw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alci\\Desktop\\a\\ApiBolsa\\ApiBolsa.csproj",
+  "projectFilePath": "C:\\Users\\Alci\\Desktop\\veamos\\ApiBolsa\\ApiBolsa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alci\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Alci\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.3\\microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",

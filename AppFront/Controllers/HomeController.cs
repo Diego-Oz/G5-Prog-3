@@ -20,14 +20,15 @@ namespace AppFront.Controllers
 {
     public class HomeController : Controller
     {
-        
+
+        string url = "https://apibolsa.azurewebsites.net/api/logins/";
 
         public async Task<IActionResult> Index()
         {
             var accessToken = HttpContext.Session.GetString("JWToken");
             var htttpcliente = new HttpClient();
             htttpcliente.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", accessToken);
-            var json = await htttpcliente.GetStringAsync("https://apibolsa.azurewebsites.net/api/logins");
+            var json = await htttpcliente.GetStringAsync(url);
             var Lista_Usuarios = JsonConvert.DeserializeObject<List<Login>>(json);
             return View(Lista_Usuarios);    
         }
@@ -41,13 +42,13 @@ namespace AppFront.Controllers
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(nuevo), Encoding.UTF8, "application/json");
 
-                using (var response = await httpClient.PostAsync("https://apibolsa.azurewebsites.net/api/Logins", content))
+                using (var response = await httpClient.PostAsync(url, content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                     receivedata = JsonConvert.DeserializeObject<LoginResponse>(apiResponse);
                 }
             }
-            return Redirect("~/Home/Login");
+            return Redirect("~/home/Index");
         }
 
 
@@ -61,7 +62,7 @@ namespace AppFront.Controllers
             {
                 StringContent content = new StringContent(JsonConvert.SerializeObject(login), Encoding.UTF8, "application/json");
 
-                using (var response = await httpClient.PostAsync("https://apibolsa.azurewebsites.net/api/Logins/login", content))
+                using (var response = await httpClient.PostAsync(url +"login", content))
                 {
                     string apiResponse = await response.Content.ReadAsStringAsync();
                     receivedata = JsonConvert.DeserializeObject<LoginResponse>(apiResponse);
@@ -71,10 +72,7 @@ namespace AppFront.Controllers
 
                 }
             }
-            return Redirect("~/Empleos/Principal");
+            return Redirect("~/Categorias/Index");
         }
-
-       
-
     }
 }
