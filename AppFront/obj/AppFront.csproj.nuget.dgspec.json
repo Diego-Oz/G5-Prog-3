@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gaby Vass\\Desktop\\P\\G5-Prog-3\\AppFront\\AppFront.csproj": {}
+    "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gaby Vass\\Desktop\\P\\G5-Prog-3\\AppFront\\AppFront.csproj": {
+    "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gaby Vass\\Desktop\\P\\G5-Prog-3\\AppFront\\AppFront.csproj",
+        "projectUniqueName": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj",
         "projectName": "AppFront",
-        "projectPath": "C:\\Users\\Gaby Vass\\Desktop\\P\\G5-Prog-3\\AppFront\\AppFront.csproj",
-        "packagesPath": "C:\\Users\\Gaby Vass\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gaby Vass\\Desktop\\P\\G5-Prog-3\\AppFront\\obj\\",
+        "projectPath": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\AppFront.csproj",
+        "packagesPath": "C:\\Users\\dsgsdg\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dsgsdg\\Desktop\\Proyecto\\AppFront\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Gaby Vass\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dsgsdg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
