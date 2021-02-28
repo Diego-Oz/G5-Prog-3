@@ -24,7 +24,7 @@ namespace AppFront.Controllers
             return View(convertir);
 
         }
-
+       
         public async Task<IActionResult> IndexPost()
         {
             var htttpcliente = new HttpClient();
@@ -34,11 +34,21 @@ namespace AppFront.Controllers
 
         }
 
-        public async Task<IActionResult> Postular()
+        public async Task<IActionResult> Postular(int categoria)
         {
             var htttpcliente = new HttpClient();
             var json = await htttpcliente.GetStringAsync(url);
-            var postular = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+
+            List<Empleo> postular = new List<Empleo>();
+            if (categoria != 0)
+            {
+                List<Empleo> result = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+                postular = result.Where(x => x.Categorias == categoria).ToList();
+            } else
+            {
+                postular = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+            }
+            
             return View(postular);
 
         }
