@@ -4,15 +4,33 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+<header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+        <div class="container-fluid bg-dark">
+            <a class="navbar-brand" href="#">
+                <span class="glyphicon glyphicon-briefcase"></span>¡Empleos Ya!|
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" href="#">Contactos</a> |
+                    <a class="nav-link active" href="@Url.Action("Index", "AdmiController")">Empleos</a>
+                    <a class="nav-link active" href="@Url.Action("Indexcate", "AdmiController")">Categorias</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
 
-<h1>Index</h1>
+<h1>Cetegorias</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+
 <table class="table">
     <thead>
-        <tr>
+        <tr class="table-info">
             <th>
                 @Html.DisplayNameFor(model => model.ID)
             </th>
@@ -23,20 +41,20 @@
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.ID)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.NombreCategoria)
-            </td>
-            <td>
-                @Html.ActionLink("Edit", "Edit", new {  id=item.ID }) |
-                @Html.ActionLink("Details", "Details", new {  id=item.ID }) |
-                @Html.ActionLink("Delete", "Delete", new {  id=item.ID })
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NombreCategoria)
+                </td>
+                <td>
+                    <a class="btn btn-warning text-dark btn-xs" href="@Url.Action("EditCate", "AdmiController")"><span class="glyphicon glyphicon-edit"></span></a>
+                    <a class="btn btn-danger text-dark btn-xs" href="@Url.Action("Deletecate", "AdmiController")"><span class="glyphicon glyphicon-remove"></span></a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

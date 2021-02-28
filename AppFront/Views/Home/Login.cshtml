@@ -5,9 +5,8 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Login</h1>
+<h1><span class="glyphicon glyphicon-user"></span> Login</h1>
 
-<h4>LoginRequest</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
@@ -24,14 +23,18 @@
                 <span asp-validation-for="Password" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <a class="btn btn-success" href="@Url.Action("Principal", "Empleos")">Ingresar</a>
+                <a class="btn btn-primary" href="@Url.Action("Crear", "Home")">Registrarse</a>
             </div>
         </form>
+    </div>
+    <div class="col-md-8">
+        <img src="Imagenes/Login.png" />
     </div>
 </div>
 
 <div>
-    <a asp-action="Index">Back to List</a>
+    <a asp-action="Index" class="btn btn-info">Regresar</a>
 </div>
 
 @section Scripts {

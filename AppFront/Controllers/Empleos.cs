@@ -25,6 +25,42 @@ namespace AppFront.Controllers
 
         }
 
+        public async Task<IActionResult> IndexPost()
+        {
+            var htttpcliente = new HttpClient();
+            var json = await htttpcliente.GetStringAsync(url);
+            var convertirpost = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+            return View(convertirpost);
+
+        }
+
+        public async Task<IActionResult> Postular()
+        {
+            var htttpcliente = new HttpClient();
+            var json = await htttpcliente.GetStringAsync(url);
+            var postular = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+            return View(postular);
+
+        }
+
+        public async Task<IActionResult> Confirmar()
+        {
+            var htttpcliente = new HttpClient();
+            var json = await htttpcliente.GetStringAsync(url);
+            var confirmar = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+            return View(confirmar);
+
+        }
+
+        public async Task<IActionResult> Principal()
+        {
+            var htttpcliente = new HttpClient();
+            var json = await htttpcliente.GetStringAsync(url);
+            var convertirprin = JsonConvert.DeserializeObject<List<AppFront.Models.Empleo>>(json);
+            return View(convertirprin);
+
+        }
+
         public async Task<IActionResult> Details(int? id)
         {
             if (id == null)

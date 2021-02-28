@@ -47,7 +47,7 @@ namespace AppFront.Controllers
                     receivedata = JsonConvert.DeserializeObject<LoginResponse>(apiResponse);
                 }
             }
-            return Redirect("~/home/Index");
+            return Redirect("~/Home/Login");
         }
 
 
@@ -71,7 +71,7 @@ namespace AppFront.Controllers
 
                 }
             }
-            return Redirect("~/Categorias/Index");
+            return Redirect("~/Empleos/Principal");
         }
 
        

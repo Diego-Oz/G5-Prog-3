@@ -59,7 +59,7 @@ namespace AppFront
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Login}/{id?}");
+                    pattern: "{controller=Empleos}/{action=Index}/{id?}");
             });
         }
     }
