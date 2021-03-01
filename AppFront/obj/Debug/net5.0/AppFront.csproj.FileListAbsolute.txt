@@ -1396,3 +1396,4 @@ C:\Users\dsgsdg\Desktop\ProyectoFi\AppFront\obj\Debug\net5.0\AppFront.dll
 C:\Users\dsgsdg\Desktop\ProyectoFi\AppFront\obj\Debug\net5.0\ref\AppFront.dll
 C:\Users\dsgsdg\Desktop\ProyectoFi\AppFront\obj\Debug\net5.0\AppFront.pdb
 C:\Users\dsgsdg\Desktop\ProyectoFi\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\dsgsdg\Desktop\ProyectoFi\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Delete.cshtml.g.cs
