@@ -1,0 +1,613 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "ApiBolsa",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Categorias": {
+      "get": {
+        "tags": [
+          "Categorias"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Categoria"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Categorias"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Categoria"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Categoria"
+            }
+          }
+        }
+      }
+    },
+    "/api/Categorias/{id}": {
+      "get": {
+        "tags": [
+          "Categorias"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Categoria"
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Categorias"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Categoria"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Categorias"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Empleos": {
+      "get": {
+        "tags": [
+          "Empleos"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Empleo"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Empleos"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Empleo"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Empleo"
+            }
+          }
+        }
+      }
+    },
+    "/api/Empleos/{id}": {
+      "get": {
+        "tags": [
+          "Empleos"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Empleo"
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Empleos"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Empleo"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Empleos"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Logins": {
+      "get": {
+        "tags": [
+          "Logins"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/Login"
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Logins"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        }
+      }
+    },
+    "/api/Logins/{id}": {
+      "get": {
+        "tags": [
+          "Logins"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Logins"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/Login"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Logins"
+        ],
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Logins/Login": {
+      "post": {
+        "tags": [
+          "Logins"
+        ],
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "schema": {
+              "$ref": "#/definitions/LoginRequest"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Role": {
+      "required": [
+        "rol"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "rol": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "logins": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Login"
+          }
+        }
+      }
+    },
+    "Login": {
+      "required": [
+        "contraseña",
+        "email",
+        "usuario"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "contraseña": {
+          "maxLength": 256,
+          "minLength": 0,
+          "type": "string"
+        },
+        "tipoUsuario": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "usuario": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "email": {
+          "maxLength": 100,
+          "minLength": 0,
+          "type": "string"
+        },
+        "tipoUsuarioNavigation": {
+          "$ref": "#/definitions/Role"
+        },
+        "empleos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Empleo"
+          }
+        }
+      }
+    },
+    "Empleo": {
+      "required": [
+        "compañia",
+        "descripcion",
+        "email",
+        "posicion",
+        "tipo",
+        "ubicacion"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "compañia": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "tipo": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "posicion": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "ubicacion": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "categorias": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "descripcion": {
+          "maxLength": 5000,
+          "minLength": 0,
+          "type": "string"
+        },
+        "fecha": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "url": {
+          "maxLength": 100,
+          "minLength": 0,
+          "type": "string"
+        },
+        "email": {
+          "maxLength": 100,
+          "minLength": 0,
+          "type": "string"
+        },
+        "logo": {
+          "format": "byte",
+          "type": "string"
+        },
+        "categoriasNavigation": {
+          "$ref": "#/definitions/Categoria"
+        },
+        "emailNavigation": {
+          "$ref": "#/definitions/Login"
+        }
+      }
+    },
+    "Categoria": {
+      "required": [
+        "nombreCategoria"
+      ],
+      "type": "object",
+      "properties": {
+        "id": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "nombreCategoria": {
+          "maxLength": 50,
+          "minLength": 0,
+          "type": "string"
+        },
+        "empleos": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/Empleo"
+          }
+        }
+      }
+    },
+    "LoginRequest": {
+      "required": [
+        "password",
+        "usuario"
+      ],
+      "type": "object",
+      "properties": {
+        "usuario": {
+          "type": "string"
+        },
+        "password": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

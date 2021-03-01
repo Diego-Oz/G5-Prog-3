@@ -1,0 +1,1267 @@
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\AppFront\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Alci\source\repos\AppFront\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\ApiBolsa\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleo\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleo\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Edit.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Delete.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\proyecto\G5-Prog-3-master\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleo\Details.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Delete.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Edit.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController1\Index.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Details.cshtml.g.cs
+C:\Users\Alci\Desktop\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\App-Front\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alci\source\repos\App-Front\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\Desktop\a\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Home\Crear.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Crear.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Editar.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\CreateCate.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Delete.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Deletecate.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Edit.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\EditCate.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Indexcate.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\naruto\Nueva carpeta (3)\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Create.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\CreateCate.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Delete.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Deletecate.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Edit.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\EditCate.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Index.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\AdmiController\Indexcate.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Editar.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Home\Crear.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\IndexPost.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Principal.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Confirmar.cshtml.g.cs
+C:\Users\Gaby Vass\Desktop\P\G5-Prog-3\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Postular.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Editar.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\IndexPost.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Postular.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Principal.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Home\Crear.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\dsgsdg\Desktop\Proyecto\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Details.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Details.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Editar.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\IndexPost.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Postular.cshtml.g.cs
+C:\Users\Alci\Desktop\a\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Principal.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\appsettings.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\libman.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.deps.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.runtimeconfig.dev.json
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Humanizer.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\IdentityModel.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csprojAssemblyReference.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfoInputs.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.AssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CoreCompileInputs.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.Manifest.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\staticwebassets\AppFront.StaticWebAssets.xml
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\scopedcss\bundle\AppFront.styles.css
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.input.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.TagHelpers.output.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorCoreGenerate.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Create.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Details.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Editar.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Index.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\IndexPost.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Postular.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Empleos\Principal.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Crear.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Home\Registrase.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cache
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.RazorTargetAssemblyInfo.cs
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.Views.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.csproj.CopyComplete
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\ref\AppFront.dll
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.pdb
+C:\Users\josti\OneDrive\Documentos\nuevo cuastrimestre\Programacion 3\Nueva carpeta\G5-Prog-3-master\AppFront\obj\Debug\net5.0\AppFront.genruntimeconfig.cache

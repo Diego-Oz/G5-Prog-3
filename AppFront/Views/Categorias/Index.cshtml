@@ -1,0 +1,93 @@
+﻿@model IEnumerable<AppFront.Models.Categoria>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+        <div class="container-fluid bg-dark">
+            <a class="navbar-brand" href="#">
+                <span class="glyphicon glyphicon-briefcase"></span>¡Empleos Ya!|
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" href="#">Contactos</a> |
+                    <a class="nav-link active" href="@Url.Action("Index", "Empleos")">Empleos</a>
+                    <a class="nav-link active" href="@Url.Action("Index", "Categorias")">Categorias</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<h1>Categorias</h1>
+<a class="btn btn-success text-white btn-xs" href="@Url.Action("Create", "Categorias")"><span class="glyphicon glyphicon-plus"> Agregar categoria</span></a>
+
+
+<input id="txtBusqueda" type="text" class="form-control" placeholder="Filtrar" onkeyup="Buscar();" />
+<hr />
+<br />
+<table class="table" id="tblPersonas">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCategoria)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <a href="@Url.Action("Details", "Categorias", new { id = item.ID })">
+                        @Html.DisplayFor(modelItem => item.ID)
+                    </a>
+                </td>
+                <td>
+                    <a href="@Url.Action("Details", "Categorias", new { id = item.ID })">
+
+                        @Html.DisplayFor(modelItem => item.NombreCategoria)
+                    </a>
+                </td>
+                <td>
+                    <a class="btn btn-warning text-white btn-xs" href="@Url.Action("Edit", "Categorias", new { id = item.ID })"> Editar<span class="glyphicon glyphicon-edit"></span></a>
+                    <a class="btn btn-danger text-white btn-xs" href="@Url.Action("Delete", "Categorias", new { id = item.ID })"> Eliminar<span class="glyphicon glyphicon-remove"></span></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<script type="text/javascript">
+    function Buscar() {
+        var tabla = document.getElementById('tblPersonas');
+        var busqueda = document.getElementById('txtBusqueda').value.toLowerCase();
+        var cellsOfRow = "";
+        var found = false;
+        var compareWith = "";
+        for (var i = 1; i < tabla.rows.length; i++) {
+            cellsOfRow = tabla.rows[i].getElementsByTagName('td');
+            found = false;
+            for (var j = 0; j < cellsOfRow.length && !found; j++) {
+                compareWith = cellsOfRow[j].innerHTML.toLowerCase(); if (busqueda.length == 0 || (compareWith.indexOf(busqueda) > -1)) {
+                    found = true;
+                }
+            }
+            if (found) {
+                tabla.rows[i].style.display = '';
+            } else {
+                tabla.rows[i].style.display = 'none';
+            }
+        }
+    }
+</script>

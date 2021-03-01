@@ -1,0 +1,84 @@
+﻿@model IEnumerable<AppFront.Models.Empleo>
+
+@{ ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+<header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+        <div class="container-fluid bg-dark">
+            <a class="navbar-brand" href="#">
+                <span class="glyphicon glyphicon-briefcase"></span>¡Empleos Ya!|
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" href="@Url.Action("IndexPost", "Empleos")">Administrador</a>
+                    <a class="nav-link active" href="@Url.Action("Principal", "Empleos")">Poster</a>
+                    <a class="nav-link active" href="@Url.Action("Postular", "Empleos")">Usuario</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<br />
+<h1>Empleos</h1>
+<a class="btn btn-success text-white btn-xs" href="@Url.Action("Create", "Empleos")"><span class="glyphicon glyphicon-plus"> Postularse</span></a>
+<hr />
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.23/css/jquery.dataTables.css">
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.js"></script>
+
+<table class="table">
+    <thead>
+        <tr class="table-info">
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Compañia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Posicion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ubicacion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+<tr>
+    <td>
+        <a href="@Url.Action("Details", "Empleos", new { id = item.Id })">
+            @Html.DisplayFor(modelItem => item.Id)
+        </a>
+    </td>
+    <td>
+        <a href="@Url.Action("Details", "Empleos", new { id = item.Id })">
+            @Html.DisplayFor(modelItem => item.Compañia)
+        </a>
+    </td>
+    <td>
+        <a href="@Url.Action("Details", "Empleos", new { id = item.Id })">
+            @Html.DisplayFor(modelItem => item.Posicion)
+        </a>
+    </td>
+    <td>
+        <a href="@Url.Action("Details", "Empleos", new { id = item.Id })">
+            @Html.DisplayFor(modelItem => item.Ubicacion)
+        </a>
+    </td>
+
+</tr>
+}
+    </tbody>
+</table>
+@section Scripts{
+    <script>
+    $(document).ready(function () {
+            $('#myTable').DataTable();
+        });</script>
+}

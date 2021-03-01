@@ -1,0 +1,136 @@
+﻿@model IEnumerable<AppFront.Models.Empleo>
+
+@{ ViewData["Title"] = "Index";
+                Layout = "~/Views/Shared/_Layout.cshtml"; }
+<header class="bg-dark">
+    <nav class="navbar navbar-expand-lg navbar navbar-dark bg-dark">
+        <div class="container-fluid bg-dark">
+            <a class="navbar-brand" href="#">
+                <span class="glyphicon glyphicon-briefcase"></span>¡Empleos Ya!|
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-link active" href="@Url.Action("IndexPost", "Empleos")">Administrador</a>
+                    <a class="nav-link active" href="@Url.Action("Principal", "Empleos")">Poster</a>
+                    <a class="nav-link active" href="@Url.Action("Postular", "Empleos")">Usuario</a>
+
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+<br />
+<h1>Postularse</h1>
+<hr />
+
+@using (Html.BeginForm("Postular", "Empleos", FormMethod.Get))
+{
+
+<div class="input-group mb-3">
+
+    <input type="number" name="categoria" id="categoria" class="form-control" placeholder="Categoria" aria-label="Example text with button addon" aria-describedby="button-addon1">
+    <div class="input-group-prepend">
+        <button class="btn btn-outline-secondary" type="submit" id="button-addon1">Buscar</button>
+    </div>
+</div>}
+
+
+<table class="table table-striped">
+    <thead>
+        <tr class="table-info">
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Compañia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Posicion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ubicacion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Categorias)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Logo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model.Count() == 0)
+        {
+<tr>
+    <td colspan="3" style="color:red">
+        No encontrado
+    </td>
+</tr> }
+            else
+@foreach (var item in Model)
+{
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.Id)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Compañia)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Tipo)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Posicion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Ubicacion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Categorias)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Descripcion)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Fecha)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Url)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Email)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.Logo)
+    </td>
+    <td>
+        <a class="btn btn-secondary text-dark" href="mailto:someone@example.com">Send email<span class="glyphicon glyphicon-ok"></span></a>
+
+    </td>
+</tr>                }
+    </tbody>
+</table>
+@section Scripts{
+    <script>$(document).ready(function () {
+            $('#myTable').DataTable();
+        });</script>
+}
