@@ -1,25 +1,55 @@
 ﻿@model AppFront.Models.Empleo
 
 @{ ViewData["Title"] = "Details";
-                Layout = "~/Views/Shared/_Layout.cshtml"; }
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
 <a class="btn btn-success text-dark" href="mailto:someone@example.com">Postularse<span class="glyphicon glyphicon-plus"></span></a>
 <hr />
 
-<div class="mb-3">
-
+<div class="container mb-5">
+    <h4>Detalles Generales</h4>
+    <hr>
     <div class="row">
-        <h2>@Html.DisplayFor(model => model.Compañia)</h2>
-        <h4>@Html.DisplayFor(model => model.Ubicacion)</h4>
-        <hr />
+        <div class="col-9">
 
-        <p><h3>@Html.DisplayFor(model => model.Posicion) - @Html.DisplayFor(model => model.Tipo)</h3></p>
-        <hr />
-        <h3>@Html.DisplayFor(model => model.Descripcion)</h3>
+            <div class="row mb-5">
+                <div class="col-9">
+                    <section>
+                        @*<dl>
+                <dd class="col-sm-10">*@
+                        <p><h2><strong></em>@Html.DisplayFor(model => model.Compañia)</strong></h2></p>
+                        <h5><em>@Html.DisplayFor(model => model.Ubicacion)</em></h5>
+                        @*</dd>*@
+                        <hr />
+                        <br />
+                        @*<dd class="col-sm-10">*@
+                        <p><h4>@Html.DisplayFor(model => model.Posicion) - @Html.DisplayFor(model => model.Tipo)</h4></p>
+                        @*</dd>*@
+                        <hr />
+                        <br />
+                        @*<dd class="col-sm-10">*@
+                        <p><h3>@Html.DisplayFor(model => model.Descripcion)</h3></p>
+                        @*</dd>
+                </dl>*@
+                    </section>
+                </div>
+                <div class="col-3">
+                    <p>
+                        <img src="https://img.freepik.com/vector-gratis/icono-comunicacion-plana_1262-18771.jpg?size=626&ext=jpg" width="550" height="400" />
+                    </p>
+                </div>
+                <div>
+                    @*@Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |*@
+                    <br />
+                    <a class="btn btn-secondary" asp-action="Index">Regresar</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
-    </div>
-    <hr />
-    </div>
-    @*<h1>Details</h1>
+
+@*<h1>Details</h1>
 
     <div>
         <h4>Empleo</h4>
@@ -92,8 +122,5 @@
                 @Html.DisplayFor(model => model.Logo)
             </dd>
         </dl>
-    </div>
-    <div>
-        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
-        <a class="btn btn-secondary" asp-action="Index">Regresar</a>
     </div>*@
+    
